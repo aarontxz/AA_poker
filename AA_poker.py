@@ -1,4 +1,4 @@
-API_key= "5376534440:AAEmLbsKTC6gK5cMdGraHURrg8a26qqkNps"
+API_key= "put your bot API key here"
 
 import telebot
 from telebot import types
